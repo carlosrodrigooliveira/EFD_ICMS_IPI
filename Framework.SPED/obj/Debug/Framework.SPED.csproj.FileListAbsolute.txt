@@ -1,0 +1,15 @@
+C:\Users\konectando\OneDrive\Projetos\Simplificando\trunk\Framework\Fontes\Framework.SPED\bin\Debug\Framework.SPED.dll
+C:\Users\konectando\OneDrive\Projetos\Simplificando\trunk\Framework\Fontes\Framework.SPED\bin\Debug\Framework.SPED.pdb
+C:\Users\konectando\OneDrive\Projetos\Simplificando\trunk\Framework\Fontes\Framework.SPED\obj\Debug\Framework.SPED.csprojAssemblyReference.cache
+C:\Users\konectando\OneDrive\Projetos\Simplificando\trunk\Framework\Fontes\Framework.SPED\obj\Debug\Framework.SPED.dll
+C:\Users\konectando\OneDrive\Projetos\Simplificando\trunk\Framework\Fontes\Framework.SPED\obj\Debug\Framework.SPED.pdb
+C:\Projetos\Git\EFDICMS\Framework.SPED\bin\Debug\Framework.SPED.dll
+C:\Projetos\Git\EFDICMS\Framework.SPED\bin\Debug\Framework.SPED.pdb
+C:\Projetos\Git\EFDICMS\Framework.SPED\obj\Debug\Framework.SPED.dll
+C:\Projetos\Git\EFDICMS\Framework.SPED\obj\Debug\Framework.SPED.pdb
+C:\Projetos\Git\EFDICMS\Framework.SPED\obj\Debug\Framework.SPED.csprojResolveAssemblyReference.cache
+D:\CCOSTA\Projetos\Git\EFDICMS\Framework.SPED\bin\Debug\Framework.SPED.dll
+D:\CCOSTA\Projetos\Git\EFDICMS\Framework.SPED\bin\Debug\Framework.SPED.pdb
+D:\CCOSTA\Projetos\Git\EFDICMS\Framework.SPED\obj\Debug\Framework.SPED.csprojResolveAssemblyReference.cache
+D:\CCOSTA\Projetos\Git\EFDICMS\Framework.SPED\obj\Debug\Framework.SPED.dll
+D:\CCOSTA\Projetos\Git\EFDICMS\Framework.SPED\obj\Debug\Framework.SPED.pdb
